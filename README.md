@@ -1,6 +1,6 @@
 # 🥧Restaurant
 ## Yes, it is time to farewell bits and bytes and start working with stacks of wheat packs, queues of customers' orders and loops of Swiss roll.
-### You can use computer simulation to assess and enhance their service
+### Using computer simulation to assess and enhance the resturant service. Currently, the resturant have ‘M’ cooks and it want to determine the service criteria -- that is, the criteria based on which an order should be serviced (i.e. prepared) earlier or later than others, to maximize average customer satisfaction.
 # 📸Demos
 
 # <div align="center">Main Screen</div> 
